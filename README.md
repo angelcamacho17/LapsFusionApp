@@ -1,2 +1,2 @@
 # LapsFusionApp
-Laps Fusion Game. College project.
+Soy un machete.
